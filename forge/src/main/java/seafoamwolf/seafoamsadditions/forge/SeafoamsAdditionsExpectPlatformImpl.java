@@ -1,11 +1,10 @@
-package net.examplemod.forge;
+package seafoamwolf.seafoamsadditions.forge;
 
-import net.examplemod.ExampleExpectPlatform;
 import net.minecraftforge.fml.loading.FMLPaths;
 
 import java.nio.file.Path;
 
-public class ExampleExpectPlatformImpl {
+public class SeafoamsAdditionsExpectPlatformImpl {
     /**
      * This is our actual method to {@link ExampleExpectPlatform#getConfigDirectory()}.
      */

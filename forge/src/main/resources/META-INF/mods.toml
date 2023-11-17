@@ -4,30 +4,28 @@ loaderVersion = "[47,)"
 license = "Insert License Here"
 
 [[mods]]
-modId = "examplemod"
+modId = "seafoamsadditions"
 version = "${version}"
-displayName = "Example Mod"
-authors = "Me!"
-description = '''
-This is an example description! Tell everyone what your mod is about!
-'''
+displayName = "Seafoam's Additions"
+authors = "SeafoamWolf"
+description = '''A mod that adds in simple additions to the vanilla game.'''
 #logoFile = ""
 
-[[dependencies.examplemod]]
+[[dependencies.seafoamsadditions]]
 modId = "forge"
 mandatory = true
 versionRange = "[47,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.seafoamsadditions]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.20.1,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.seafoamsadditions]]
 modId = "architectury"
 mandatory = true
 versionRange = "[9.1.12,)"

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "seafoamsadditions",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Seafoam's Additions",
+  "description": "A mod that adds in simple additions to the vanilla game.",
   "authors": [
-    "Me!"
+    "SeafoamWolf"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.examplemod.fabric.ExampleModFabric"
+      "seafoamwolf.seafoamsadditions.fabric.SeafoamsAdditionsFabric"
     ]
   },
   "depends": {

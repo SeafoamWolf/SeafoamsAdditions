@@ -1,11 +1,10 @@
-package net.examplemod.fabric;
+package seafoamwolf.seafoamsadditions.fabric;
 
-import net.examplemod.ExampleExpectPlatform;
 import net.fabricmc.loader.api.FabricLoader;
 
 import java.nio.file.Path;
 
-public class ExampleExpectPlatformImpl {
+public class SeafoamsAdditionsExpectPlatformImpl {
     /**
      * This is our actual method to {@link ExampleExpectPlatform#getConfigDirectory()}.
      */

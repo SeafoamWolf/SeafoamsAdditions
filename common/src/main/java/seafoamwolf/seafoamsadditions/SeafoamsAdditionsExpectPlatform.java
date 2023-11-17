@@ -1,11 +1,11 @@
-package net.examplemod;
+package seafoamwolf.seafoamsadditions;
 
 import dev.architectury.injectables.annotations.ExpectPlatform;
 import dev.architectury.platform.Platform;
 
 import java.nio.file.Path;
 
-public class ExampleExpectPlatform {
+public class SeafoamsAdditionsExpectPlatform {
     /**
      * We can use {@link Platform#getConfigFolder()} but this is just an example of {@link ExpectPlatform}.
      * <p>
