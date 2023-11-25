@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "seafoamsadditions:item/moon_phase_clock_05"
+    "layer0": "seafoamsadditions:item/lunar_clock_06"
   }
 }
